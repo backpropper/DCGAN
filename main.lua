@@ -212,11 +212,13 @@ end
 for epoch = 1, opt.niter do
    local counter = 0
    for sample in getIterator():run() do
-        input:copy(sample.input)
-	    optim.adam(disTrain, disParam, disOptim)
-		optim.adam(genTrain, genParam, genOptim)
-		counter = counter + 1
-        print("Batch No. " .. counter .. " done")
+   		if sample.input:size(1) == opt.batchSize then
+	        input:copy(sample.input)
+		    optim.adam(disTrain, disParam, disOptim)
+			optim.adam(genTrain, genParam, genOptim)
+			counter = counter + 1
+	        print("Batch No. " .. counter .. " done")
+	    end
 	end
 	disParam, disGradParam = dis:getParameters()
     genParam, genGradParam = gen:getParameters()

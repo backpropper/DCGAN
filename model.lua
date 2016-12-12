@@ -1,25 +1,12 @@
 require 'nn'
 local M = {}
 
-local function MSRinit(net)
-  local function init(name)
-    for k,v in pairs(net:findModules(name)) do
-      local n = v.kW*v.kH*v.nOutputPlane
-      v.weight:normal(0,math.sqrt(2/n))
-      v.bias:zero()
-    end
-  end
-  -- have to do for both backends
-  init'nn.SpatialConvolution'
-end
-
---MSRinit(vgg)
-
 local function weights_init(m)
    local name = torch.type(m)
    if name:find('Convolution') then
       m.weight:normal(0.0, 0.02)
-      m:noBias()
+      m.bias = nil
+      m.gradBias = nil
    elseif name:find('BatchNormalization') then
       if m.weight then m.weight:normal(1.0, 0.02) end
       if m.bias then m.bias:fill(0) end
