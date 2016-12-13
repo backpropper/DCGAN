@@ -9,9 +9,10 @@ local lmdb = require 'lmdb'
 local tnt = require 'torchnet'
 local image = require 'image'
 local optParser = require 'opts'
-local opt = optParser.parse(arg)
 local util = require 'utils'
 local model = require 'model'
+
+local opt = optParser.parse(arg)
 
 opt.manualSeed = torch.random(1, 10000)
 torch.manualSeed(opt.manualSeed)
@@ -24,7 +25,7 @@ local size
 local indexvals
 
 if opt.generateIndex == true then
-	datasize = util.generateIndex(path,'classroom')
+    datasize = util.generateIndex(path,'classroom')
 end
 
 local datasize = {}
@@ -43,6 +44,11 @@ for i,v in pairs(dataset) do
 							MaxReaders=20, MaxDBs=20}
 	loadData[i][2]:open()
 	loadData[i][3] = loadData[i][2]:txn(true)
+end
+
+if opt.gpu > 0 then
+    require 'cunn'
+    require 'cudnn'
 end
 
 local gen = model.generator(opt.inpdim, opt.ndisfil, opt.ngenfil, 3)
@@ -130,11 +136,9 @@ local real_label = 1
 local fake_label = 0
 
 if opt.gpu then
-  require 'cunn'
   input = input:cuda()  
   noise = noise:cuda()  
   label = label:cuda()
-  require 'cudnn'
   cudnn.benchmark = true
   cudnn.fastest = true
   cudnn.convert(gen, cudnn)

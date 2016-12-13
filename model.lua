@@ -1,4 +1,4 @@
-require 'nn'
+
 local M = {}
 
 local function weights_init(m)
