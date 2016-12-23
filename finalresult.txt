@@ -1,0 +1,2 @@
+Real images top-5 labes {'brassiere, bra, bandeau': 10222, 'Windsor tie': 8168, 'suit, suit of clothes': 9833, 'neck brace': 11337, 'oboe, hautboy, hautbois': 8560}
+Generated images top-5 labels {'bassoon': 350, 'panpipe, pandean pipe, syrinx': 899, 'oboe, hautboy, hautbois': 739, 'neck brace': 896, 'Windsor tie': 936}

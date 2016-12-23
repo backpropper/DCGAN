@@ -1,32 +1,31 @@
 local M = {}
 
-function M.parse(arg)
-    local cmd = torch.CmdLine();
-    cmd:text()
-    cmd:text('::::::DCGAN::::::')
-    cmd:text()
-    cmd:text('Options:')
-    cmd:option('-dataset',         'lsun',             'Dataset to load')
-    cmd:option('-batchSize',         64,             'Batch Size')
-    cmd:option('-fineSize',          64,             'fineSize')
-    cmd:option('-loadSize',          96,            'LoadSize')
-    cmd:option('-inpdim',           100,            'Dim for input noise')
-    cmd:option('-ngenfil',          64,              'Number of gen filters in first convolution')
-    cmd:option('-ndisfil',          64,            'Number of dis filters in first convolution')
-    cmd:option('-nThreads',         4,            'Number of Threads')
-    cmd:option('-niter',            25,            'Starting learning rate iterations')
-    cmd:option('-lr',            0.0002,           'learning rate')
-    cmd:option('-beta1',           0.5,             'Momentum for Adam')
-    cmd:option('-ntrain',      math.huge,           '#  of examples per epoch. math.huge for full dataset')
-    cmd:option('-display',          false,          'Display samples while training')
-    cmd:option('-gpu',              false,          'gpu mode')
-    cmd:option('-noise',          'normal',          'Noise type uniform/normal')
-    cmd:option('-name',              'Exp',          'Experiment number')
-    cmd:option('-generateIndex',     false,          'Generate Index')
 
-    local opt = cmd:parse(arg or {})
-
+function M.getOpt()
+    opt = {
+        datatype = 'celeb',                                                  -- lsun / celeb
+        batchSize = 64,
+        inpdim = 100,                                                       -- Dim for input noise: inpdim x 1 x 1
+        ngenfil = 64,                                                       -- Number of generator filters in first convolution layer
+        ndisfil = 64,                                                       -- Number of discriminator filters in first convolution layer
+        nThreads = 4,                                                       -- Number of Threads used in parallel iterator
+        niter = 25,                                                         -- Number of epochs for training
+        lr = 0.0002,                                                        -- Learning rate for adam
+        beta1 = 0.5,                                                        -- momentum for adam
+        gpu = false,                                                        -- gpu = false is CPU mode. gpu=true is GPU mode on
+        name = 'Exp1',                                                      -- name of the experiment
+        noise = 'normal',                                                   -- Noise type: uniform / normal
+        generateIndex = 'false',                                            -- For LSUN data, if hash Index not generated leave it as true
+        path = '/scratch/ag5799/cv_project/celeba/', 			            -- folder location for the lsun / celeb data 
+        dataset = {'church_outdoor'},                                       -- if using lsun datatype- mention the dataset type(only one)
+                                                                            -- {'bedroom', 'bridge', 'church_outdoor', 'classroom', 'conference_room',
+                                                                            -- 'dining_room', 'kitchen', 'living_room', 'restaurant', 'tower'}
+        debug = true,                                                       -- For debugging
+        cropImages = false,                                                 -- cropping celebA images and rescaling to 64x64- see utils.lua-cropImages()
+        imageSize = 64,                                                    -- Output Image Size: 64/128/256   
+    }
+    print(opt)
     return opt
 end
-
+    
 return M

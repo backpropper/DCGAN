@@ -1,0 +1,350 @@
+Classes for	test/labels/trainimages/1.jpg	
+0.28959468007088	Windsor tie	
+0.22901679575443	academic gown, academic robe, judge's robe	
+0.14300636947155	suit, suit of clothes	
+0.053021114319563	bow tie, bow-tie, bowtie	
+0.037403121590614	neck brace	
+	
+Classes for	test/labels/trainimages/2.jpg	
+0.19474253058434	bathing cap, swimming cap	
+0.16755592823029	mortarboard	
+0.16378302872181	academic gown, academic robe, judge's robe	
+0.16026936471462	tennis ball	
+0.090071260929108	neck brace	
+	
+Classes for	test/labels/trainimages/3.jpg	
+0.082279771566391	torch	
+0.053999874740839	barracouta, snoek	
+0.051198828965425	racket, racquet	
+0.038303531706333	ballplayer, baseball player	
+0.037183877080679	tench, Tinca tinca	
+	
+Classes for	test/labels/trainimages/4.jpg	
+0.15511541068554	brassiere, bra, bandeau	
+0.094851940870285	academic gown, academic robe, judge's robe	
+0.075358517467976	wig	
+0.046920955181122	hair spray	
+0.043640442192554	panpipe, pandean pipe, syrinx	
+	
+Classes for	test/labels/trainimages/5.jpg	
+0.12402173876762	shower cap	
+0.083063118159771	brassiere, bra, bandeau	
+0.039091359823942	gong, tam-tam	
+0.037148285657167	hair slide	
+0.033145543187857	face powder	
+	
+Classes for	test/labels/trainimages/6.jpg	
+0.19125492870808	lab coat, laboratory coat	
+0.094247348606586	Windsor tie	
+0.083983846008778	neck brace	
+0.0568687915802	brassiere, bra, bandeau	
+0.043137423694134	suit, suit of clothes	
+	
+Classes for	test/labels/trainimages/7.jpg	
+0.1885998249054	wig	
+0.10655757784843	suit, suit of clothes	
+0.068611085414886	oboe, hautboy, hautbois	
+0.052382867783308	neck brace	
+0.035541523247957	bassoon	
+	
+Classes for	test/labels/trainimages/8.jpg	
+0.16433663666248	bulletproof vest	
+0.089876547455788	barracouta, snoek	
+0.058807618916035	tench, Tinca tinca	
+0.055592007935047	ballplayer, baseball player	
+0.044756591320038	torch	
+	
+Classes for	test/labels/trainimages/9.jpg	
+0.10427960008383	brassiere, bra, bandeau	
+0.031756032258272	bikini, two-piece	
+0.029591651633382	bow tie, bow-tie, bowtie	
+0.026102442294359	candle, taper, wax light	
+0.02609634026885	neck brace	
+	
+Classes for	test/labels/trainimages/10.jpg	
+0.18057525157928	neck brace	
+0.077452354133129	Windsor tie	
+0.050011646002531	comic book	
+0.035202253609896	bassoon	
+0.034547004848719	oboe, hautboy, hautbois	
+	
+Classes for	test/labels/trainimages/11.jpg	
+0.19204550981522	Windsor tie	
+0.18467444181442	suit, suit of clothes	
+0.11575481295586	lab coat, laboratory coat	
+0.052358318120241	oboe, hautboy, hautbois	
+0.033456072211266	bassoon	
+	
+Classes for	test/labels/trainimages/12.jpg	
+0.22533667087555	neck brace	
+0.084884867072105	oboe, hautboy, hautbois	
+0.081957794725895	panpipe, pandean pipe, syrinx	
+0.035371240228415	ocarina, sweet potato	
+0.032839141786098	whistle	
+	
+Classes for	test/labels/trainimages/13.jpg	
+0.045480068773031	academic gown, academic robe, judge's robe	
+0.037327345460653	oboe, hautboy, hautbois	
+0.032245673239231	bikini, two-piece	
+0.023621978238225	Sussex spaniel	
+0.017658980563283	maillot, tank suit	
+	
+Classes for	test/labels/trainimages/14.jpg	
+0.15017347037792	ping-pong ball	
+0.1173704713583	Windsor tie	
+0.06371246278286	prison, prison house	
+0.050226982682943	neck brace	
+0.046880967915058	bulletproof vest	
+	
+Classes for	test/labels/trainimages/15.jpg	
+0.167675152421	brassiere, bra, bandeau	
+0.074124790728092	suit, suit of clothes	
+0.063960500061512	neck brace	
+0.050322722643614	lab coat, laboratory coat	
+0.039413079619408	bikini, two-piece	
+	
+Classes for	test/labels/trainimages/16.jpg	
+0.56414663791656	neck brace	
+0.076344944536686	lab coat, laboratory coat	
+0.032752234488726	brassiere, bra, bandeau	
+0.025477342307568	pajama, pyjama, pj's, jammies	
+0.021894667297602	suit, suit of clothes	
+	
+Classes for	test/labels/trainimages/17.jpg	
+0.21141037344933	wig	
+0.19372004270554	brassiere, bra, bandeau	
+0.051230620592833	bikini, two-piece	
+0.050294738262892	maillot	
+0.03534271940589	academic gown, academic robe, judge's robe	
+	
+Classes for	test/labels/trainimages/18.jpg	
+0.7284694314003	suit, suit of clothes	
+0.13546170294285	Windsor tie	
+0.012399637140334	oboe, hautboy, hautbois	
+0.012077697552741	bolo tie, bolo, bola tie, bola	
+0.0082320375367999	trench coat	
+	
+Classes for	test/labels/trainimages/19.jpg	
+0.097271710634232	lab coat, laboratory coat	
+0.066688843071461	neck brace	
+0.064392141997814	stethoscope	
+0.053157165646553	brassiere, bra, bandeau	
+0.045008789747953	wig	
+	
+Classes for	test/labels/trainimages/20.jpg	
+0.36546775698662	bathing cap, swimming cap	
+0.081491485238075	barracouta, snoek	
+0.037953414022923	gar, garfish, garpike, billfish, Lepisosteus osseus	
+0.025866813957691	maillot	
+0.021974213421345	wool, woolen, woollen	
+	
+Classes for	test/labels/trainimages/21.jpg	
+0.26159560680389	brassiere, bra, bandeau	
+0.10561492294073	bikini, two-piece	
+0.032944746315479	maillot	
+0.02410476282239	hand blower, blow dryer, blow drier, hair dryer, hair drier	
+0.02190038189292	hair spray	
+	
+Classes for	test/labels/trainimages/22.jpg	
+0.30249583721161	Windsor tie	
+0.098860137164593	suit, suit of clothes	
+0.053527414798737	neck brace	
+0.040035013109446	bulletproof vest	
+0.036714781075716	oboe, hautboy, hautbois	
+	
+Classes for	test/labels/trainimages/23.jpg	
+0.16729071736336	ping-pong ball	
+0.10740921646357	Windsor tie	
+0.075986683368683	television, television system	
+0.041674330830574	hand-held computer, hand-held microcomputer	
+0.036383714526892	suit, suit of clothes	
+	
+Classes for	test/labels/trainimages/24.jpg	
+0.28096154332161	neck brace	
+0.053994745016098	suit, suit of clothes	
+0.047816142439842	seat belt, seatbelt	
+0.033587895333767	miniskirt, mini	
+0.032270465046167	brassiere, bra, bandeau	
+	
+Classes for	test/labels/trainimages/25.jpg	
+0.10882849246264	brassiere, bra, bandeau	
+0.080843426287174	neck brace	
+0.068356014788151	bikini, two-piece	
+0.062206700444221	hand blower, blow dryer, blow drier, hair dryer, hair drier	
+0.057502888143063	hair spray	
+	
+Classes for	test/labels/trainimages/26.jpg	
+0.14870469272137	wig	
+0.039972115308046	bikini, two-piece	
+0.038436535745859	wool, woolen, woollen	
+0.034347090870142	neck brace	
+0.034085813909769	lab coat, laboratory coat	
+	
+Classes for	test/labels/trainimages/27.jpg	
+0.12099318951368	bikini, two-piece	
+0.089789099991322	wig	
+0.077030785381794	brassiere, bra, bandeau	
+0.034059204161167	academic gown, academic robe, judge's robe	
+0.032127507030964	fur coat	
+	
+Classes for	test/labels/trainimages/28.jpg	
+0.14145435392857	Windsor tie	
+0.086928859353065	neck brace	
+0.070167869329453	suit, suit of clothes	
+0.068989783525467	lab coat, laboratory coat	
+0.044965654611588	bassoon	
+	
+Classes for	test/labels/trainimages/29.jpg	
+0.093584582209587	Windsor tie	
+0.050713997334242	bulletproof vest	
+0.048376586288214	neck brace	
+0.032438773661852	suit, suit of clothes	
+0.029035298153758	hand-held computer, hand-held microcomputer	
+	
+Classes for	test/labels/trainimages/30.jpg	
+0.14404089748859	neck brace	
+0.064218491315842	suit, suit of clothes	
+0.061743214726448	Windsor tie	
+0.044700052589178	bassoon	
+0.03836066275835	oboe, hautboy, hautbois	
+	
+Classes for	test/labels/trainimages/31.jpg	
+0.11016906052828	brassiere, bra, bandeau	
+0.064558401703835	neck brace	
+0.050207916647196	oboe, hautboy, hautbois	
+0.045194063335657	bikini, two-piece	
+0.039438288658857	jersey, T-shirt, tee shirt	
+	
+Classes for	test/labels/trainimages/32.jpg	
+0.19572725892067	wig	
+0.14605388045311	bearskin, busby, shako	
+0.075896255671978	bikini, two-piece	
+0.065352506935596	academic gown, academic robe, judge's robe	
+0.036594416946173	hair spray	
+	
+Classes for	test/labels/trainimages/33.jpg	
+0.17535577714443	brassiere, bra, bandeau	
+0.1071040853858	wig	
+0.070510782301426	pajama, pyjama, pj's, jammies	
+0.06040146946907	bikini, two-piece	
+0.051277190446854	velvet	
+	
+Classes for	test/labels/trainimages/34.jpg	
+0.25697666406631	brassiere, bra, bandeau	
+0.11794828623533	wig	
+0.062087673693895	pajama, pyjama, pj's, jammies	
+0.055021032691002	hair spray	
+0.028738852590322	maillot	
+	
+Classes for	test/labels/trainimages/35.jpg	
+0.11580868810415	oboe, hautboy, hautbois	
+0.083995006978512	neck brace	
+0.058871928602457	lab coat, laboratory coat	
+0.043877489864826	suit, suit of clothes	
+0.03866571187973	wig	
+	
+Classes for	test/labels/trainimages/36.jpg	
+0.14375235140324	brassiere, bra, bandeau	
+0.044210523366928	oboe, hautboy, hautbois	
+0.037361182272434	maillot, tank suit	
+0.032820492982864	hand blower, blow dryer, blow drier, hair dryer, hair drier	
+0.032587464898825	face powder	
+	
+Classes for	test/labels/trainimages/37.jpg	
+0.205053627491	brassiere, bra, bandeau	
+0.067159861326218	wig	
+0.041654385626316	lab coat, laboratory coat	
+0.040417462587357	bikini, two-piece	
+0.038407571613789	oboe, hautboy, hautbois	
+	
+Classes for	test/labels/trainimages/38.jpg	
+0.2460520118475	suit, suit of clothes	
+0.090513981878757	oboe, hautboy, hautbois	
+0.069832511246204	neck brace	
+0.06660084426403	Windsor tie	
+0.051530074328184	bassoon	
+	
+Classes for	test/labels/trainimages/39.jpg	
+0.58067011833191	sunglass	
+0.055640682578087	sunglasses, dark glasses, shades	
+0.050251010805368	bathing cap, swimming cap	
+0.038572683930397	whistle	
+0.028777524828911	torch	
+	
+Classes for	test/labels/trainimages/40.jpg	
+0.5068097114563	wig	
+0.13421143591404	brassiere, bra, bandeau	
+0.084472149610519	maillot	
+0.052806295454502	bikini, two-piece	
+0.039241451770067	hair spray	
+	
+Classes for	test/labels/trainimages/41.jpg	
+0.11548735946417	brassiere, bra, bandeau	
+0.091029711067677	suit, suit of clothes	
+0.074277579784393	neck brace	
+0.066332943737507	Windsor tie	
+0.050173453986645	oboe, hautboy, hautbois	
+	
+Classes for	test/labels/trainimages/42.jpg	
+0.40823006629944	brassiere, bra, bandeau	
+0.053468599915504	lab coat, laboratory coat	
+0.044634826481342	stethoscope	
+0.041894067078829	neck brace	
+0.028988633304834	maillot	
+	
+Classes for	test/labels/trainimages/43.jpg	
+0.15123178064823	neck brace	
+0.094966128468513	Windsor tie	
+0.076446063816547	bow tie, bow-tie, bowtie	
+0.055361930280924	bassoon	
+0.033897705376148	suit, suit of clothes	
+	
+Classes for	test/labels/trainimages/44.jpg	
+0.088509105145931	Windsor tie	
+0.080769345164299	bow tie, bow-tie, bowtie	
+0.069058120250702	oboe, hautboy, hautbois	
+0.058291550725698	suit, suit of clothes	
+0.055227525532246	bassoon	
+	
+Classes for	test/labels/trainimages/45.jpg	
+0.1826386153698	suit, suit of clothes	
+0.16766710579395	Windsor tie	
+0.041142251342535	oboe, hautboy, hautbois	
+0.037960838526487	lab coat, laboratory coat	
+0.028149805963039	bulletproof vest	
+	
+Classes for	test/labels/trainimages/46.jpg	
+0.084497161209583	torch	
+0.064830876886845	panpipe, pandean pipe, syrinx	
+0.041461579501629	Windsor tie	
+0.034910518676043	sweatshirt	
+0.034077435731888	lab coat, laboratory coat	
+	
+Classes for	test/labels/trainimages/47.jpg	
+0.13412317633629	oboe, hautboy, hautbois	
+0.12336331605911	hair spray	
+0.093134693801403	fur coat	
+0.071652382612228	neck brace	
+0.06770171225071	bassoon	
+	
+Classes for	test/labels/trainimages/48.jpg	
+0.3809999525547	suit, suit of clothes	
+0.25868454575539	Windsor tie	
+0.061371259391308	bow tie, bow-tie, bowtie	
+0.038240905851126	oboe, hautboy, hautbois	
+0.028841907158494	academic gown, academic robe, judge's robe	
+	
+Classes for	test/labels/trainimages/49.jpg	
+0.30449616909027	wig	
+0.057662077248096	neck brace	
+0.0459961630404	miniskirt, mini	
+0.03942909091711	wool, woolen, woollen	
+0.038386050611734	lab coat, laboratory coat	
+	
+Classes for	test/labels/trainimages/50.jpg	
+0.063653148710728	neck brace	
+0.037498526275158	potter's wheel	
+0.030251018702984	brassiere, bra, bandeau	
+0.027576997876167	face powder	
+0.025690592825413	maillot, tank suit	
+	

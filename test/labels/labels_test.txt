@@ -1,0 +1,350 @@
+[?1034hClasses for	test/gen_images/generation463.png	
+0.050875391811132	patas, hussar monkey, Erythrocebus patas	
+0.042179573327303	capuchin, ringtail, Cebus capucinus	
+0.03562730550766	gibbon, Hylobates lar	
+0.034996401518583	Saint Bernard, St Bernard	
+0.030719421803951	black-footed ferret, ferret, Mustela nigripes	
+	
+Classes for	test/gen_images/generation896.png	
+0.035364586859941	patas, hussar monkey, Erythrocebus patas	
+0.033979624509811	capuchin, ringtail, Cebus capucinus	
+0.030232148244977	earthstar	
+0.026026695966721	marmoset	
+0.025226503610611	hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa	
+	
+Classes for	test/gen_images/generation844.png	
+0.22241000831127	panpipe, pandean pipe, syrinx	
+0.13927981257439	Windsor tie	
+0.08734155446291	neck brace	
+0.049087453633547	oboe, hautboy, hautbois	
+0.031050715595484	pick, plectrum, plectron	
+	
+Classes for	test/gen_images/generation738.png	
+0.17815488576889	Windsor tie	
+0.15886284410954	oboe, hautboy, hautbois	
+0.088056787848473	panpipe, pandean pipe, syrinx	
+0.06827225536108	neck brace	
+0.048737518489361	bassoon	
+	
+Classes for	test/gen_images/generation109.png	
+0.03814459964633	Windsor tie	
+0.037424888461828	Dandie Dinmont, Dandie Dinmont terrier	
+0.035530373454094	capuchin, ringtail, Cebus capucinus	
+0.03172942250967	Japanese spaniel	
+0.02673895098269	patas, hussar monkey, Erythrocebus patas	
+	
+Classes for	test/gen_images/generation589.png	
+0.11470866203308	neck brace	
+0.11451929062605	Windsor tie	
+0.046528283506632	abaya	
+0.046146586537361	oboe, hautboy, hautbois	
+0.045274816453457	panpipe, pandean pipe, syrinx	
+	
+Classes for	test/gen_images/generation538.png	
+0.47149452567101	flute, transverse flute	
+0.1096959784627	panpipe, pandean pipe, syrinx	
+0.085108354687691	harmonica, mouth organ, harp, mouth harp	
+0.055819895118475	ocarina, sweet potato	
+0.035291571170092	neck brace	
+	
+Classes for	test/gen_images/generation829.png	
+0.22624595463276	Windsor tie	
+0.13850332796574	neck brace	
+0.092319220304489	oboe, hautboy, hautbois	
+0.059380631893873	academic gown, academic robe, judge's robe	
+0.055987279862165	panpipe, pandean pipe, syrinx	
+	
+Classes for	test/gen_images/generation739.png	
+0.12200776487589	Windsor tie	
+0.12111591547728	neck brace	
+0.10709047317505	panpipe, pandean pipe, syrinx	
+0.065709188580513	oboe, hautboy, hautbois	
+0.051449671387672	sweatshirt	
+	
+Classes for	test/gen_images/generation925.png	
+0.12958006560802	Windsor tie	
+0.10834503918886	panpipe, pandean pipe, syrinx	
+0.10756290704012	oboe, hautboy, hautbois	
+0.068180792033672	neck brace	
+0.043613072484732	bassoon	
+	
+Classes for	test/gen_images/generation316.png	
+0.15016585588455	panpipe, pandean pipe, syrinx	
+0.12614530324936	neck brace	
+0.082417726516724	Windsor tie	
+0.049693204462528	oboe, hautboy, hautbois	
+0.032453447580338	fur coat	
+	
+Classes for	test/gen_images/generation601.png	
+0.26787182688713	Windsor tie	
+0.13634467124939	panpipe, pandean pipe, syrinx	
+0.12145948410034	oboe, hautboy, hautbois	
+0.077581793069839	neck brace	
+0.031225966289639	bolo tie, bolo, bola tie, bola	
+	
+Classes for	test/gen_images/generation771.png	
+0.18006955087185	Windsor tie	
+0.13400885462761	neck brace	
+0.057117942720652	panpipe, pandean pipe, syrinx	
+0.048111479729414	oboe, hautboy, hautbois	
+0.026197329163551	jersey, T-shirt, tee shirt	
+	
+Classes for	test/gen_images/generation7.png	
+0.075552918016911	neck brace	
+0.050355903804302	oxygen mask	
+0.031552594155073	Windsor tie	
+0.027015145868063	loupe, jeweler's loupe	
+0.019301265478134	panpipe, pandean pipe, syrinx	
+	
+Classes for	test/gen_images/generation406.png	
+0.18098486959934	panpipe, pandean pipe, syrinx	
+0.15572720766068	oboe, hautboy, hautbois	
+0.10546937584877	Windsor tie	
+0.06194730848074	neck brace	
+0.041536260396242	bassoon	
+	
+Classes for	test/gen_images/generation288.png	
+0.062783487141132	capuchin, ringtail, Cebus capucinus	
+0.059800248593092	Windsor tie	
+0.036779046058655	macaque	
+0.032492328435183	patas, hussar monkey, Erythrocebus patas	
+0.030938500538468	panpipe, pandean pipe, syrinx	
+	
+Classes for	test/gen_images/generation398.png	
+0.16443549096584	panpipe, pandean pipe, syrinx	
+0.08686500787735	neck brace	
+0.077403262257576	loupe, jeweler's loupe	
+0.068786457180977	bulletproof vest	
+0.059198416769505	Windsor tie	
+	
+Classes for	test/gen_images/generation417.png	
+0.13418586552143	Windsor tie	
+0.079320430755615	neck brace	
+0.055357161909342	panpipe, pandean pipe, syrinx	
+0.044914584606886	capuchin, ringtail, Cebus capucinus	
+0.044012535363436	patas, hussar monkey, Erythrocebus patas	
+	
+Classes for	test/gen_images/generation973.png	
+0.15830382704735	Windsor tie	
+0.15791510045528	oboe, hautboy, hautbois	
+0.12445025146008	panpipe, pandean pipe, syrinx	
+0.10637964308262	neck brace	
+0.077624522149563	bassoon	
+	
+Classes for	test/gen_images/generation104.png	
+0.08294527977705	Windsor tie	
+0.076803311705589	capuchin, ringtail, Cebus capucinus	
+0.042739674448967	panpipe, pandean pipe, syrinx	
+0.034830614924431	neck brace	
+0.025403520092368	oboe, hautboy, hautbois	
+	
+Classes for	test/gen_images/generation545.png	
+0.11334143579006	panpipe, pandean pipe, syrinx	
+0.095711633563042	neck brace	
+0.064109735190868	Windsor tie	
+0.041314646601677	flute, transverse flute	
+0.037983473390341	bassoon	
+	
+Classes for	test/gen_images/generation501.png	
+0.080582603812218	Windsor tie	
+0.052485305815935	panpipe, pandean pipe, syrinx	
+0.049615517258644	fur coat	
+0.048755176365376	sweatshirt	
+0.046394664794207	neck brace	
+	
+Classes for	test/gen_images/generation864.png	
+0.12138535827398	Windsor tie	
+0.062689214944839	panpipe, pandean pipe, syrinx	
+0.030167838558555	oboe, hautboy, hautbois	
+0.027785887941718	neck brace	
+0.023922411724925	Dandie Dinmont, Dandie Dinmont terrier	
+	
+Classes for	test/gen_images/generation853.png	
+0.20963203907013	Windsor tie	
+0.17581717669964	neck brace	
+0.11936206370592	oboe, hautboy, hautbois	
+0.10656145215034	panpipe, pandean pipe, syrinx	
+0.047426678240299	bassoon	
+	
+Classes for	test/gen_images/generation726.png	
+0.1186495795846	Windsor tie	
+0.099309027194977	panpipe, pandean pipe, syrinx	
+0.060870621353388	neck brace	
+0.04632093757391	oboe, hautboy, hautbois	
+0.02443783544004	pick, plectrum, plectron	
+	
+Classes for	test/gen_images/generation153.png	
+0.1876602768898	Windsor tie	
+0.09772089868784	panpipe, pandean pipe, syrinx	
+0.062069412320852	neck brace	
+0.045921992510557	oboe, hautboy, hautbois	
+0.032278146594763	loupe, jeweler's loupe	
+	
+Classes for	test/gen_images/generation108.png	
+0.15013827383518	Windsor tie	
+0.097528010606766	neck brace	
+0.063420943915844	academic gown, academic robe, judge's robe	
+0.049806214869022	panpipe, pandean pipe, syrinx	
+0.043613005429506	oboe, hautboy, hautbois	
+	
+Classes for	test/gen_images/generation232.png	
+0.15279427170753	Windsor tie	
+0.13524195551872	neck brace	
+0.08533488959074	panpipe, pandean pipe, syrinx	
+0.052531145513058	oboe, hautboy, hautbois	
+0.034896895289421	academic gown, academic robe, judge's robe	
+	
+Classes for	test/gen_images/generation394.png	
+0.097162492573261	Windsor tie	
+0.09179349988699	neck brace	
+0.04863066226244	panpipe, pandean pipe, syrinx	
+0.035383250564337	bassoon	
+0.034371074289083	sweatshirt	
+	
+Classes for	test/gen_images/generation295.png	
+0.11340734362602	panpipe, pandean pipe, syrinx	
+0.10828770697117	neck brace	
+0.10215985029936	Windsor tie	
+0.058512926101685	oboe, hautboy, hautbois	
+0.033295132219791	bassoon	
+	
+Classes for	test/gen_images/generation862.png	
+0.30659779906273	oboe, hautboy, hautbois	
+0.10455267876387	panpipe, pandean pipe, syrinx	
+0.089103780686855	Windsor tie	
+0.061475310474634	neck brace	
+0.060429103672504	bassoon	
+	
+Classes for	test/gen_images/generation548.png	
+0.19167946279049	Windsor tie	
+0.092021845281124	panpipe, pandean pipe, syrinx	
+0.053275100886822	oboe, hautboy, hautbois	
+0.040918201208115	neck brace	
+0.021105924621224	bassoon	
+	
+Classes for	test/gen_images/generation910.png	
+0.1488651484251	Windsor tie	
+0.11034405976534	neck brace	
+0.082310855388641	panpipe, pandean pipe, syrinx	
+0.081200405955315	oboe, hautboy, hautbois	
+0.043075539171696	academic gown, academic robe, judge's robe	
+	
+Classes for	test/gen_images/generation812.png	
+0.095444746315479	Windsor tie	
+0.054366361349821	panpipe, pandean pipe, syrinx	
+0.044876620173454	Persian cat	
+0.030041126534343	oboe, hautboy, hautbois	
+0.029864478856325	loupe, jeweler's loupe	
+	
+Classes for	test/gen_images/generation507.png	
+0.16315342485905	panpipe, pandean pipe, syrinx	
+0.12243207544088	Windsor tie	
+0.1219367235899	neck brace	
+0.064212314784527	oboe, hautboy, hautbois	
+0.034689746797085	bassoon	
+	
+Classes for	test/gen_images/generation128.png	
+0.1337963193655	panpipe, pandean pipe, syrinx	
+0.096950948238373	Windsor tie	
+0.054839458316565	neck brace	
+0.020996827632189	oboe, hautboy, hautbois	
+0.019980864599347	bassoon	
+	
+Classes for	test/gen_images/generation158.png	
+0.14737869799137	panpipe, pandean pipe, syrinx	
+0.092737019062042	neck brace	
+0.09152177721262	Windsor tie	
+0.027558380737901	oboe, hautboy, hautbois	
+0.026006257161498	loupe, jeweler's loupe	
+	
+Classes for	test/gen_images/generation918.png	
+0.27637058496475	panpipe, pandean pipe, syrinx	
+0.11015164107084	neck brace	
+0.092052347958088	oboe, hautboy, hautbois	
+0.086886055767536	Windsor tie	
+0.025918046012521	jersey, T-shirt, tee shirt	
+	
+Classes for	test/gen_images/generation638.png	
+0.1204719170928	panpipe, pandean pipe, syrinx	
+0.10655284672976	fur coat	
+0.06557510048151	Windsor tie	
+0.039575781673193	neck brace	
+0.030654663220048	bolo tie, bolo, bola tie, bola	
+	
+Classes for	test/gen_images/generation884.png	
+0.075310617685318	Windsor tie	
+0.067368984222412	neck brace	
+0.043538086116314	affenpinscher, monkey pinscher, monkey dog	
+0.036802023649216	patas, hussar monkey, Erythrocebus patas	
+0.023005370050669	guenon, guenon monkey	
+	
+Classes for	test/gen_images/generation816.png	
+0.32746168971062	panpipe, pandean pipe, syrinx	
+0.14641781151295	neck brace	
+0.062931336462498	Windsor tie	
+0.06075943633914	oboe, hautboy, hautbois	
+0.047899223864079	flute, transverse flute	
+	
+Classes for	test/gen_images/generation546.png	
+0.089119538664818	oboe, hautboy, hautbois	
+0.085750430822372	Windsor tie	
+0.061980623751879	bassoon	
+0.06017729267478	panpipe, pandean pipe, syrinx	
+0.050776213407516	neck brace	
+	
+Classes for	test/gen_images/generation391.png	
+0.095261134207249	Windsor tie	
+0.058124709874392	panpipe, pandean pipe, syrinx	
+0.044843051582575	oboe, hautboy, hautbois	
+0.043016146868467	neck brace	
+0.038632895797491	bassoon	
+	
+Classes for	test/gen_images/generation415.png	
+0.091894209384918	Windsor tie	
+0.085890077054501	neck brace	
+0.048218850046396	prison, prison house	
+0.043883442878723	panpipe, pandean pipe, syrinx	
+0.036239419132471	oboe, hautboy, hautbois	
+	
+Classes for	test/gen_images/generation823.png	
+0.10360690206289	Windsor tie	
+0.055837705731392	pickelhaube	
+0.044579729437828	neck brace	
+0.041031304746866	panpipe, pandean pipe, syrinx	
+0.037608072161674	oboe, hautboy, hautbois	
+	
+Classes for	test/gen_images/generation535.png	
+0.15560691058636	neck brace	
+0.1361918002367	Windsor tie	
+0.095973894000053	panpipe, pandean pipe, syrinx	
+0.052280746400356	oboe, hautboy, hautbois	
+0.035876404494047	sweatshirt	
+	
+Classes for	test/gen_images/generation397.png	
+0.20828375220299	panpipe, pandean pipe, syrinx	
+0.1430407166481	Windsor tie	
+0.073495514690876	neck brace	
+0.059881895780563	pickelhaube	
+0.038093894720078	prison, prison house	
+	
+Classes for	test/gen_images/generation201.png	
+0.2274207174778	Windsor tie	
+0.20704266428947	panpipe, pandean pipe, syrinx	
+0.105946354568	neck brace	
+0.088839434087276	oboe, hautboy, hautbois	
+0.030857902020216	bassoon	
+	
+Classes for	test/gen_images/generation399.png	
+0.19160228967667	oboe, hautboy, hautbois	
+0.16046005487442	Windsor tie	
+0.12254572659731	neck brace	
+0.092761963605881	panpipe, pandean pipe, syrinx	
+0.06565498560667	bassoon	
+	
+Classes for	test/gen_images/generation774.png	
+0.11601273715496	Windsor tie	
+0.10664650052786	loupe, jeweler's loupe	
+0.098275892436504	panpipe, pandean pipe, syrinx	
+0.096797622740269	neck brace	
+0.040619187057018	oboe, hautboy, hautbois	
+	
